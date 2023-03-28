@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./../assets/img/logo.svg" type="image/x-icon">
+    
+    <!-- link css reset e base -->
+    <link rel="stylesheet" href="./../assets/css/base/reset.css">
+    <link rel="stylesheet" href="./../assets/css/base/base.css">
+
+    <!-- link css botao -->
+    <link rel="stylesheet" href="./../assets/css/components/botoes/botoes.css">
+
+    <!-- link css cabecalho -->
+    <link rel="stylesheet" href="./../assets/css/components/cabecalho/cabecalho.css">
+    
+    <!-- link css rodape -->
+    <link rel="stylesheet" href="./../assets/css/components/rodape/rodape.css">
+
+    <!-- link css cadastra produto -->
+    <link rel="stylesheet" href="./../assets/css/cadastra-produto.css">
+
+    <!-- link css formulario -->
+    <link rel="stylesheet" href="./../assets/css/components/formulario/formulario.css">
+
+    <!-- link font google Raleway -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@500;700&display=swap" rel="stylesheet">
+
+    <title>AluraGeek</title>
+</head>
+<body>
+    <header class="cabecalho">
+        <nav class="cabecalho__navegacao">
+            <img class="cabecalho__logo" src="./../assets/img/logo.svg" alt="logo">
+            <h1 class="cabecalho__logo-alura">Alura</h1>
+            <h1 class="cabecalho__logo-geek">Geek</h1>
+            <div class="cabecalho__container">
+                <form class="input__container">
+                    <input class="input__cabecalho" type="search" placeholder="O que deseja encontrar?">
+                    <button type="submit" class="search__botao">
+                        <img src="./../assets/img/search.svg" alt="search">
+                    </button>
+                </form>
+                <a class="cabecalho__btn-administrador" href="./todos-os-produtos.html">Menu administrador</a>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class="cadastra-produto">
+            <form class="formulario" data-form>
+                <p class="formulario__paragrafo">Adicionar novo produto</p>
+                <div class="formulario__box-input">
+                    <label for="formulario__input" class="formulario__label">URL da imagem</label>
+                    <input type="text" name="formulario__input" class="formulario__input" id="formulario__url-imagem" placeholder="URL da imagem" required data-url="imagem">
+                </div>
+                <div class="formulario__box-input">
+                    <label for="formulario__input" class="formulario__label">Categoria</label>
+                    <select name="formulario__input" class="formulario__input" id="formulario__categoria" placeholder="Categoria" required data-categoria>
+                        <option value="Star Wars">Star Wars</option>
+                        <option value="Consoles">Consoles</option>
+                        <option value="Diversos">Diversos</option>
+                    </select>
+                </div>
+                <div class="formulario__box-input">
+                    <label for="formulario__input" class="formulario__label">Nome do produto</label>
+                    <input type="text" name="formulario__input" class="formulario__input" id="formulario__nome-produto" placeholder="Nome do produto" required data-nome>
+                </div>
+                <div class="formulario__box-input">
+                    <label for="formulario__input" class="formulario__label">Preço do produto</label>
+                    <input type="text" name="formulario__input" class="formulario__input formulario__input--valor" id="formulario__preco-produto" placeholder="Preço do produto" required data-preco="preco">
+                </div>
+                <textarea name="formulario__aria-de-texto" id="formulario__aria-de-texto" class="formulario__aria-de-texto"
+                    cols="30" rows="10" placeholder="Descrição do produto" required
+                    data-descricao></textarea>
+                <button type="submit" class="primeiro__botao">Adicionar produto</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <section class="rodape">
+            <div class="rodape__container">
+                <div class="rodape__box-logo">
+                    <img class="rodape__logo" src="./../assets/img/logo.svg" alt="logo">
+                    <h1 class="rodape__logo-alura">Alura</h1>
+                    <h1 class="rodape__logo-geek">Geek</h1>
+                </div>
+                <div class="rodape__box-links">
+                    <a href="#" class="rodape__links">Quem somos nós</a>
+                    <a href="#" class="rodape__links">Política de privacidade</a>
+                    <a href="#" class="rodape__links">Programa fidelidade</a>
+                    <a href="#" class="rodape__links">Nossas lojas</a>
+                    <a href="#" class="rodape__links">Quero ser franqueado</a>
+                    <a href="#" class="rodape__links">Anuncie aqui</a>
+                </div>
+            </div>
+            <form class="rodape__formulario">
+                <p class="rodape__paragrafo">Fale conosco</p>
+                <div class="rodape__box-input">
+                    <label for="rodape__nome" class="rodape__label">Nome</label>
+                    <input type="text" name="rodape__nome" class="rodape__nome" id="rodape__nome" placeholder="Nome"
+                        required data-rodapeNome>
+                </div>
+                <textarea name="rodape__aria-de-texto" id="rodape__aria-de-texto" class="rodape__aria-de-texto"
+                    cols="30" rows="10" placeholder="Escreva sua mensagem" required
+                    data-rodape__ariaDeTexto></textarea>
+                <button type="submit" class="primeiro__botao btn__rodape">Enviar mensagem</button>
+            </form>
+        </section>
+        <section class="rodape__autoria">
+            <p>&copy;Desenvolvido por Danny Berrios</p>
+            <p>2023</p>
+        </section>
+    </footer>
+    <script type="module" src="./../controller/cadastraProdutoAdm-controller.js"></script>
+    <script type="module" src="./../controller/rodape-controller.js"></script>
+    <script src="https://github.com/codermarcos/simple-mask-money/releases/download/v3.0.0/simple-mask-money.js"></script>
+</body>
+</html>

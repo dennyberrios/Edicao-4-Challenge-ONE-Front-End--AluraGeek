@@ -1,0 +1,55 @@
+.card {
+    margin: 5px 5px;
+    font-family: var(--font-Raleway);
+}
+
+.card__img {
+    width: 176px;
+    height: 174px;
+}
+
+.produto {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.valor {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 7px;
+}
+
+.card__link {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    color: var(--cor-azul);
+    text-decoration: none;
+}
+
+.produto, .valor {
+    margin-top: 7px;
+}
+
+@media (max-width: 768px) {
+    .card__img {
+        width: 164px;
+        height: 174px;
+    }
+}
+
+@media (max-width: 360px) {
+    .card__img {
+        width: 156px;
+        height: 174px;
+    }
+
+    .card__link {
+        font-size: 14px;
+    }
+}

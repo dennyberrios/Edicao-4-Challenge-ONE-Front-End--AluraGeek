@@ -1,0 +1,68 @@
+.card {
+    margin: 5px 5px;
+}
+
+.card__img {
+    width: 176px;
+    height: 174px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.card__box-delete-exclui {
+    width: 50px;
+    height: 19px;
+    display: flex;
+    justify-content: space-between;
+    margin: 7px;
+}
+
+.excluir {
+    cursor: pointer;
+}
+
+.produto {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.valor {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 7px;
+}
+
+.card__tag {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: var(--cor-cinza-escuro);
+}
+
+.produto,
+.valor,
+.categoria {
+    margin-top: 7px;
+}
+
+@media (max-width: 768px) {
+    .card__img {
+        width: 164px;
+        height: 174px;
+    }
+}
+
+@media (max-width: 360px) {
+    .card__img {
+        width: 156px;
+        height: 174px;
+    }
+}

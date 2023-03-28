@@ -1,0 +1,139 @@
+.cabecalho {
+    display: flex;
+    padding: 10px 0;
+    background-color: var(--cor-branco);
+    box-shadow: 0 1px 2px var(--cor-cinza-medio);
+    font-family: var(--font-Raleway);
+    position: sticky;
+    top: 0;
+}
+
+.cabecalho__navegacao {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 10px;
+}
+
+.cabecalho__logo-alura {
+    color: var(--cor-azul);
+}
+.cabecalho__logo-geek {
+    margin-right: 5px;
+}
+
+.cabecalho__logo-alura, .cabecalho__logo-geek {
+    font: 700 1.3rem var(--font-verdana);
+}
+
+.cabecalho__container {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+
+.input__container {
+    display: flex;
+    background-color: var(--cor-cinza-claro);
+    padding: 5px;
+    border-radius: 10px;
+    width: 393px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+}
+
+.input__cabecalho {
+    outline: none;
+    border: none;
+    background-color: transparent;
+    width: 100%;
+}
+
+.search__botao {
+    margin-left: 5px;
+    border: none;
+    background-color: transparent;
+}
+
+.search__botao > img:hover {
+    transform: scale(1.1);
+}
+
+.search__botao > img:active {
+    transform: scale(1.0);
+}
+
+.cabecalho__btn, .cabecalho__btn-administrador, .cabecalho__btn-home {
+    border: 1px solid var(--cor-azul);
+    text-decoration: none;
+    font: 500 1rem var(--font-verdana);
+    color: var(--cor-azul);
+    padding: 10px 50px;
+    transition: .3s all;
+}
+
+.cabecalho__btn-administrador {
+    min-width: 161px;
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.cabecalho__btn-home {
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.cabecalho__btn:hover, .cabecalho__btn-administrador:hover, .cabecalho__btn-home:hover {
+    background-color: var(--cor-azul);
+    color: var(--cor-branco);
+}
+
+.cabecalho__btn:active, .cabecalho__btn-administrador:active, .cabecalho__btn-home:active {
+    background-color: var(--cor-azul-escuro);
+}
+
+@media (max-width: 768px) {
+    .input__container {
+        width: 50%;
+    }
+    
+    .cabecalho__logo {
+        width: 30px;
+    }
+    
+    .cabecalho__logo-alura, .cabecalho__logo-geek {
+        font: 700 1.1rem var(--font-verdana);
+    }
+
+    .cabecalho__btn {
+        font: 500 .70rem var(--font-verdana);
+        padding: 8px 40px;
+    }
+    .cabecalho__btn-administrador {
+        font: 500 .70rem var(--font-verdana);
+        min-width: 115px;
+    }
+}
+
+
+@media (max-width: 360px) {
+    .cabecalho__btn {
+        font: 500 .90rem var(--font-verdana);
+        padding: 5px 30px;
+    }
+
+    .input__container {
+        order: 1;
+    }
+
+    .cabecalho__container {
+        justify-content: center;
+    }
+
+    .input__container {
+        background-color: transparent;
+        width: 17px;
+    }
+}

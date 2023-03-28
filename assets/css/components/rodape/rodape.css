@@ -1,0 +1,174 @@
+.rodape {
+    display: flex;
+    font-family: var(--font-Raleway);
+    background-color: var(--cor-vernde-claro);
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 6rem 0;
+}
+
+.rodape__container {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+}
+
+.rodape__box-logo {
+    display: flex;
+    align-items: center;
+}
+
+.rodape__logo-alura {
+    color: var(--cor-azul);
+}
+
+.rodape__logo-geek {
+    margin-right: 5px;
+}
+
+.rodape__logo-alura,
+.rodape__logo-geek {
+    font: 700 1.3rem var(--font-verdana);
+}
+
+.rodape__box-links {
+    display: flex;
+    flex-direction: column;
+}
+
+.rodape__links {
+    text-decoration: none;
+    color: var(--cor-cinza-escuro);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 30px;
+}
+
+.rodape__formulario {
+    display: flex;
+    flex-direction: column;
+}
+
+.rodape__paragrafo {
+    margin-bottom: 5px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.rodape__box-input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 560px;
+    height: 46px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+.rodape__label {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    color: var(--cor-cinza-medio);
+
+    display: flex;
+    align-items: center;
+}
+
+.rodape__nome {
+    border: none;
+    outline: none;
+    color: var(--cor-cinza-escuro);
+    margin: 5px 0;
+}
+
+.rodape__nome::placeholder {
+    visibility: hidden;
+}
+
+.rodape__aria-de-texto {
+    outline: none;
+    border: none;
+    padding: 10px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    height: 82px;
+    color: var(--cor-cinza-escuro);
+}
+
+.rodape__aria-de-texto::placeholder {
+    color: var(--cor-cinza-medio);
+}
+
+.rodape__box-input,
+.rodape__aria-de-texto {
+    margin: 10px 0;
+}
+
+.btn__rodape {
+    width: 170px;
+    height: 51px;
+}
+
+.rodape__autoria {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    font-family: var(--font-Raleway);
+    background-color: var(--cor-branco);
+}
+
+@media (max-width: 967px) {
+    .rodape {
+        justify-content: space-around;
+    }
+
+    .rodape__box-logo {
+        margin-bottom: 30px;
+    }
+
+    .rodape__container {
+        width: auto;
+        display: flex;
+        justify-content: space-around;
+        align-items: start;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 768px) {
+    .rodape__logo {
+        width: 30px;
+    }
+    
+    .rodape__logo-alura,
+    .rodape__logo-geek {
+        font: 700 1.1rem var(--font-verdana);
+    }
+
+    .rodape__box-input {
+        width: 434px;
+    }
+}
+
+@media (max-width: 500px) {
+    .rodape__box-links {
+        text-align: center;
+    }
+
+    .rodape__box-input {
+        width: 300px;
+    }
+}

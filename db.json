@@ -1,0 +1,155 @@
+{
+  "produtos": [
+    {
+      "imagem": "https://lh3.googleusercontent.com/lh52ijmvk_sGqUAPktrdwAdWZcuNCAXkPHzV6JkIpQt4NbVVlVaHlzz7mzFg3MW4wlfA50yUQ5iErdh4CSrYqpobNzw0bnAfUNeoc7xtdrDrsBFfV2xciLBjgrKcsg8K-jEMnGPi8Ul5w4b8asWfAtGLcT_VNHLhcAx4ZKN7BDQa0N2WXtpJHEp70aNoi6utEobyXTQByyBveKB6KNJsqxTfEOpKAbMwcCRgwMAILcJUeJnfeAAaJtDKketYgaDKQzranr6FvhJVnBI63RuyYwi_nPeBe3St4vkaGNd8nb337qjjYchwHSiO1Bd1QkSjZ06VPoYc2AIk2h8ssqMwz64HMLpzInvqzEN6Nadin_uzOtqMEuoYqslIdvwKGjrP48KjbjBuhK6BfIlZm0Ce3Wvldzr8W-rkGYQCEp0CH1vPjbyPrZrC2n9REcR_-PYtLQ_UFdjAEU-WrV-fYv-VR1_a9oqG7f4aT7VqLtPnp9c0ZtybwX0ubJ7VMipl6xBIZ8J-TkHEobQPWedX0Jp8J5Hhtm77q_b7xpWF6iWlhCyGET3VLcoZNJZoeZqJLw5pMM9mrxAFtOYGQFTeG5F0G-beTW4w3y-y1nRsV__dxHN7UXXMV6TX-uHMfbzlXzONTDLt7JLFhm4zu4XGPDDVqS-6hv4CjDFkzE8PdUEowZl2EHoH8OLL8U6PwW8wxA9MnVA070yuAzNpagah9Qz4xxdanUjqmskJx0S85xcWn66nWx4SkV0PfP2tOXfm6lqo4AQhAiXBoNqEufM1OtFs--NfiLf6Qla7LyRiZii-0J21Mi4QNPtw1P8bqx4GsxlhZTSBa_sj4KAJG9bTIjL1EAge0pvIzso5Vp7MHldbpZnx-3JKCyYUbtKVS6iJKo6EVBkQt_i210_BcN04JN-2c9V4HhOQ0rLzutlhu40XEg7Yxw=w176-h174-s-no?authuser=0",
+      "categoria": "Star Wars",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 1
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/tUPqOOie8WzQsWNCWV_csORQj8GfQykXySnMp-ofFp_iiPZnXmGmRj4cK8sU1Yd5yOSPjqftz60Y0PRyjjTdekUYJgCmTvv77SFg8caknFwHKtDL4qzYL8qZZYsFe7sFn2D1UtoJ5QfzfMv_svvUZjnB6H7qwi6tORQ-fC8ioXmAqw16dZ49IYdL8CbjuOZQPTgfaTBuXwPBeMQVUdmlDBp3T83OU74GtWmsO8U-DZnmbgmQfLAXnHzOsnsWIXgfGHSFX7csrV0g-Pd-d50t3YXYyEPEm1KiRc5b6Ha_dei4UQgxEhPreZkEnnmw5fkCZ6DOHcc0U6IDfinKcviSZUOCL_WINKO9fhjt62MBO9tigDZ7dCTC3GHiMP9_XqnM302Hnr_xPF39IbHxRbG0CmAKeHjgWrStQ-EHGR0JfXsjXWSaBn24_5rfzuonEMQseL1yVqT9GDJC-qpDWlu4j4u0B3uqfZibYnJ_VDMZBzLNi9Wmg_iY9HMjr6SHEv75Hq6_5q9lCCKBmK0V6Ys9wR7vkOdzkfG-_Dhl_Vy9ZuiTsqulvw1M573h7MM0fQh25KweVEb5Qj4wLQOfxmhvz5bedqRzI-lYANxwk2iweGvHQCc_vXnvqLo0SyZDs7AjE5PZ4ySxYVvFM3Sgs-Msd5gNl2NxHAi4eiztvkkZYhaz-oocm0G4lRPsAigcqQ_tuxVsgpMMzMHAIUGhyI81to7kIdc7hta0jXdTCK5lA_A7KAL0mZx_1LwhlxZ5ruwzLyMB-6QVTdHLHgyBlkGC_yjbRVXT-jWFS2qJmI9b1l7I72MTOMCJwjelzuk65k3ipvH-a7iOQcppNWLT7M6bsxUWTjsd6MHjMD02yn7j16o1GoEy048ba-3PbLbdezGMm_nqf-OR5zQjCtLNfMzRi_eBMpkheK7IQgTlfJ-yAcEf3A=w176-h174-s-no?authuser=0",
+      "categoria": "Star Wars",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 2
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/rqOaO93IoQrulEF8R4HCsT5q1blu5pJIXsCwJFztpLbf-vWcEnqxB2hna9HHduzpYLVjvQd6ealWK_rIXiH74QT76tqB0jehTfEJhxMtNDKuttmNJJuy1pXutpN5UGNeMrpT1s2lIKVYdrtWE-ePDyi3lUdFXQRZpZ-Ocdflf7plydxjhR8jX50sFc3CEm1co-X4UpaVDPvmF7PPQ97DM6QWousSrryHo9AHoVksp5t_1eMxFxAVDw-X6Rd_mdFJtuvOL4Y5pbPtKDektgl2wIXhQ7GqWp_no3oAOEvIiVsIINtwRXAYyR12-dozNPjumy2UHY5kBukHQF-BFe8JmJ8i3Gnql5zaJZjhIsZVGxhfr41dU4Hw7DZ7d3zxAlp9FXYfnN12TzWr377YztqyfWvFGQB_l5X-adS_JMQI4CnaDvHCvx5hHQnkQ1t0U82HCNw47lXyxHak9S_cgJ9uiDtQ10vFEDocMidhjKMr6fWslQx37MngamEDZ6fZxbwkkvoe8FrNLb14VRVYV90R9olPB53Mx_mG7j48JEKPT_Kih9SLnUQe-gPHxWzq8iDjhL4R7VNlOQLkPB7Yy1CRDc7ZlJoGfJqsZiqjUCxbOzPUrqO5utFfXZH2jZvHTv35aQaY6daZ-UQRKHOCFb82Oz0DyZU7WprnQ_8ZOjBxOuMdMoE7xNJJ8pTKl4AXDI_FZk4mja6TGtUu4g2GAUXEbP93uvZdDAw-xnQ2K8o1pHqOBVvUgPKHa7uboaihDaOUFVzzQgCqSMNLLyI6PLfnfB-hzV1OUXqDUfr2iKJg_-32OzBPB7aZ5rTIdJe49SvkRzpGzqhmiAt842Se19EVnkABSlba2gdviJljtO5YIXIOcw0lRxZWHKiW9Kz38V0ydyJPXag0uJ3ZZVwJe-Tf2E3tYtad6Bdggry2U3SFM6QadA=w176-h174-s-no?authuser=0",
+      "categoria": "Star Wars",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 3
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/I7UPGe-h-pL2i3TmcgsRHOrxIlhxT_sRdS90MfEbFnY0RBNcTm2MileSvsxS3qMbAwZiLjOJq3BQHtgclCBZwkc6kXtF1K-n925GnWV3O1nT_69Xr9fnNumpqzAv_2DpTQN36cElwhI6XP8blX9TstyldwxI1RjoNRSVdmFwKGpRKQdQTCYvE3Nc1W8OayRPFnuzO1fzFTWe3agQTpzxA_p5UPAYu9Vhyh3EsLooR7OcNjvvR7Ud914C9wbnmWRBHNv9ywPTt3cgvfLux9VpJ9t_A3AMU18EM3eLBsKrYN480CQj6xMyfdqW9r4x6OBTnB8Y2h9CAyu10wRfRiTYh02pQQbzV1A5_nX9KCAoiXfkeu68fgnTn5vccwYVRCvvaSPBiENPFqgV32fQ03muVeaPeNYAfxi6_XFo4FZFXOgDCXkEVdt4RQj9xPktkczS6tkZHWE9lcozXwM6XyolTZY7k0TB1ThERHUVxbf3WqEZb2c1Hk1bnYOGmShruWnqPs5YNtNUCeopZK6IaM5oTai3D2TowkMVviuNOtpFym34dqkwUREcvFUp-3ZBKhvTw5RqgREJ6yQLp2IsMH-M7IMt4_pD_3bY3nSv4gUm0fg2KF33gUkQJoXnH1eZ6uuCG6CkwHX2i9x2yuCBUz3Ms1a58ILJy-LUU1k_buraabs0z4FDdL9hkDO3EhYQcM5_ZNrza8vtr8230uNakddOlwHgNHraoz1NW3yYbjhUbSgmHO5XuptDK3xp_CzgDUBQkBTI43vEqkPiEDURrmwici3RbrOHQAs95ecPPSxIkIfxUlqbOe-eAzzf6K0eMJuWGIQXhnZ3ffZrB0XB-JFP8bsca9Z3FMVbnhpvTeALKmaXI9kqG1JNwvOAwldBfm3zEPBqeDfRVmnFwS7cVdvuD2ES-XWLDIyVlfzNis5-z0FRUA=w176-h174-s-no?authuser=0",
+      "categoria": "Star Wars",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 4
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/-P9MK4SsnWA6iBLwUvriOpeHT5IS5fBsSmwUmO99kVaB_og1sdEdbnAtFcya502go-d6Q1h-LMdAFHPKxG2EsKrzk72Q_Uokj8pL6aBmzinfTcpXgPgtWZ9KcQnxz9K2S5O015YoWjK-3vtkIdFHbgs1l2-978BF0mj8ijGJm7bSSANz5RVDNm1rK2ZL7cdlisabaK7Fgoe_KpZKpDRrNI1OamSppU9I9oqvWRji5bb5kQ72upmiJXIRcsJEDpdWo5k2FWimTvMACZoo_bXa5zxM33wNwZ7QJkdqk-m-RimqQ_wClcpGsLRUusbtOh8eXr65Rwk7YTopUf3HLy2DEzKcgZ3806htVGyuh7W07FBkfcyb6q1spJVCprXtqz6iF9zRw1BpzqF4LCOyXrpOAsm0k259wnNqooLCyvcsM-Qiq03vytSoDZwzvxPMUbzF2190CcluxGmyHtUCmFzcmo8yxu9ktIHcgEXrXZlOSv1EjCVZytMsVLSwzykpM_uP34n8qM4elPVi4dwqhSuLj5dpQKOwAM4TH09cWEw2JVtTpnMzQuTo4ozgMRrz7mWx4dVk7GF-uu0MFJuRpb0K4gYvBdEC03UBxsJSbJk9KYUqa-M5ViYKPIYpc_N0sM8QV693HQqr8EYW19Z1ukMzmEoyA-e8qvClV_5INzBST32bWUSw9gP-wvflYUyfjZo6LJb-wZ3PvKTgCHV6alZzDHbYi5QxGBUnRIAwWxw-c66nfpH3BMIPEMNh4-ffvALYv1mqKTpxNgUKzKOpZhxAAe2DEs7bM1pp-OLvD54PQXHKYGmrUb-yFSTMyi5k1huskW1W8n6wuPZjmm7s0VaeblnByIoTzMKZYq1KmhhaK6Tk1CEEkKx4SO64djVxVTNIdDiM3RZq8AyimNxZ7tpieiaqF26qVLYpSiyda6L9XzTM_A=w176-h174-s-no?authuser=0",
+      "categoria": "Star Wars",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 5
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/MAisbYNdh88cWBTC93fp2jdMJ3bn7pQlrWcijdFf5WawZWQoPc7oZvTxG-9pNdGPFywD1nmhnO5GcsOSyzo03FqApw5VVO06mouKBpPqXYTu_MI8cyJmvqtRreMHy7I96wAZgfJL2vsmORDWtwuiUUtmRbXK4mPpgRlkHKHsj1PEuK5WZ1PAcHqVgkGtADHc3lj9akHpqqZzH3tJdtNe8INLuD9LpQQNE6Ri8zm97fT-iz7Urd3IYfMspUlEYEBWQj4KClUxJMoUxwlvOCvU5mZIK6KXE3Fo-Q-579-vBispxStEvYNMbz-QBYz3mmUM4VJD3BPDMQU1zjzV5ZGTJCq2y2J9Hdl4RSL4kPNi_LCpaAa-YKL97HZjvPKtT68Brt-4Jt3LVaE2jv4PoTMNa2utMSwcBYweBBHc7XMYThLQrS8mojmGHECeRUFLB6nEjaKWxHms-7yUaFM1iIIUHmA_jsltLrySA0h-szjO5YCnpHIKD58sfPOFskG_8070Zpwba786PllGqxJMWhS7mFqO5mH14VFAO76Smu4BDnrJUkThSH_QIf0qcsbA6U2uYGdHeKoE4fZO-swpRH_fGU6ZNTguEEpAwiThlvYxRrZkkwTTvIEtleRCd5hbumxCAm0xnjma8_gZ4eUsQVZd00brc-w0TP473IZsVmorYRS4U_x7iwVhktgtwk81IDuvFQscK-PbjXcOOyRDR8kX2RfcIZva66M7ksO06Th2_Gqy9F3H0u40eizYuUMdWGyhQhKH53L1otBqYiVz96ATyH4IjMGEh-oRcM1ehUQDWYeb6F0jsHrkxM3Bx9u-x6LzZ2nvK_9kg-QlpCRuaJfK5U9l2BHixqcnRun0g0BeT2LWSWE4cRQwdQklR-LQyG021wQvMbxMV3Yyj9pGYc_U1R9Avk2lh9uohUibavTM-VkbFw=w176-h174-s-no?authuser=0",
+      "categoria": "Star Wars",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 6
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/Km3sgaa15qibTZN2pESz_QYJLOlQLilV6SIu4noYPuQIyN5v959BFLRDJK7Y1NzFjU1G5P2oJwMU7GFw0SnbqsZL-piagiUjtAOqAuusWOjRZ9EW5CZZqLyTqSnMPkL0hk1LHzAxkDi_ZWWmm956Y7TJ3yeJslrw8rVuzh9VrXBJZMnxbxLKXzrA7m9xUyabw3gOgkbMNHdRxO1XJuxGsfOjRigj_CZvyv08s0pDQGNIOSiy0Qt4DhYPt01LrguACfUOiPxgpvoEzpVAKura57UBXxJPRYyof7Y1m6Nzw08GT3mXQVzy1gQqd5O4irOuzS4x00mK5VVJFdVGKXx8cvKaWbWnV-5y1j9zMUEq2IgRBEgLYww5SS131C1gE-b89s2gy6h1NdiLF2loALnqYodoETm_GuoRWfesOjk4WEpov8Sf4vr9i68QSo2aLXWTHiyZEy4TzbRMlySvMrtKd4mxlfNQ4l1Hr6FM8J0AcOFwKsnrXUuSSOxwrlT5VGp47BKaVwi5Z1yEaKJMt_rQBZ-XBQDv-hx17depCKR14aN4GIExvEvEP1-NNcrRkTWoI-zQhUVE9mQgTwwVkgNrDdrM2YE_zgj0C906ADhIC5dBAIAMeKVBDQE2oDHfORCvQS_S6Yo3pNLcsOPIZZ6YWKhy8zTotBfisTozsv_ZAAm-dWMz7We_MOP_K2z6Ng1Z_MQpqaMzAKA8KMjuXucbhlB-VG57DdJnwXBI-wzoEiqNDrV6nlWhATKQkqCwvxfllPuu9K5l_xk1ORNtwE4h1NkM49m1wm0iZM7xzcVI3bwNav5Q_6r8ZsvwNgMniExFtsj9jxxcWIwwa5KkCTNT4FH5vHwCMF4kdaLWkfYoSi7pXtdt6XL2exIkmtKwtSbDETMPGtDevsGQnfwBfcD23QEIeDfdFhK5givhynrmVwuwLQ=w176-h174-s-no?authuser=0",
+      "categoria": "Consoles",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 7
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/m58LsVwRYKTG831WWxUudVOVpZ3kOZCZq8b34-GoaVTlss4TSoASHmWjocew4w1zc5veAkX1vZfe7fgPLWKzFeNlVxHQg-q1Ux4L0IzoRPhopeojfzuST3mMEw5PLUQ-qTIMheTPdzQIorVnDLncofcGt2G5xxkbNU2M39-Asp5WO_VeCDTtpxSb56agF3kLqZjd3LD8Co8BU1b0tPoPQU5oB29bBIIvedtMLZzmjxAB0CWSzcfUnVcZg17MG7TK1qPo9I0AfsLWNcXcHUpLaf8t8u342S0ycgVfFpL2OZIM1y79JQRYhcCEF6S-_8xTSs_0unFjK1EOCrORbOO3irXTX4PIjjbS92dnDYHc2cVA3iHiTqavNCSA9yRwq9W3VfChJeK6DJocDm6TEAYD-Glsx_UrcOnUB5xyT-zXpT6ucOyW8eYM0LsSkCTG9kE-vuX0zC1YF-H5t4BNR5AHdauatNGoaTGH6WbiD5DFibJwLUrdEdge_gFtS7kZlSZSfd2zAhOInbCxJ3IRVOiwFl7-RDCB-LJR9p9ufe6Q8WbMjI0UM7uYvG1CVJrGCQfj-sOdqFs3zK1hSFwji3ViCiz_F_LqKuFFaT6WCSz6QxVow8lIrytpCAF_epWgVzNK0Z84ZemJ6aX5TXRbMRNdDJ4m6BX9WdA3Qog-9Lb1yxi2HSUorHPxKqdHmPDD5MbbK5G3nV3OE3t9NHfMXUFVtKzpVQxJ2bPx5tnnJLkCjQIaNhrUTuL8UefShvK36T3AduMMzFxoPvzX2D9_fxTL4Z6tjyZiH4H67bcK1ExVRgqrlm4T9HQQGQXqrirPIccOWqrLrEl09G5CNXGk8wqM4SJC0PkDwgrTaRwxFrb6JBErDcGeEfmDAWFtuj2I-Rmc0-smufPyDxCQWvoU76NJEpSWyABwZvsypYHYP6_ahUehVg=w176-h174-s-no?authuser=0",
+      "categoria": "Consoles",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 8
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/i4nseLXAPeyFoPjIhYVdgsVXhZjepCkJaL_Vva-HG0-ZsAps6mU8G0KRS-xsIK5z6Dp31Zs5H-A5AddfiNfJfWLP4fG87lwmpT4EUxV7YwUlCKiDp3hnxnxqybKPcunY_nJlXFjThONfUfMU12L2k5LriDUjRoy0o2yEWELSOrXWz45kXPaOL-Kzl2yjZz4LcLlVt_6uSlPDu6_19rTn4femHq7_jwDVKMUjgiZpiikk3Trs65uM0HyGE3-Mby-7tPgjZLtzuNtYU-Gr4_Ma8LdMseQPlnXpidAW5FHXf0FGM6-us-gLvPhNdvbpyPo154vnhbtAWZvO6P9SG8-nrbJ5rwNqPsNCYsWIL5rXLn22DGLVWV-L5p2XalaRyNuRU0ssSnq8leargf6YjL58X-SmISJM680wSjRIPiaKkyS3N_49uERrUofR8DvXiKGTAS_fDaG4ie6oFS2ZEGpf5omqz9oxqPTPdB5T7FZYPoM-3lirrASKvVbfCWDbEDIt3_jFWpPY4nJmCJX6JSf7Zl3cpR72pY9Z0awFi2-3ejaOXMUxQCMJdtqaxgZkWX5rgKba78YHzZrZycqDXv5uVy4212P9FjmuicawVGDhX9tfPhcAhZ2O8rk5E2EskHfCScixwdl5_j-Yhfi0BA--7sh1xWJhOjA66GWYlco4TJplmULDKq7xotL51QtYCwyVN99RjJZa3fhqE-F5XzQfZFFYkIfYa896leAYvJBo0S7wMo5HXSX0Wnnyyi9P3dKTKBJsMgyQWhQqr3yH0sTLOCokco4Z3kwsTAYLdXL1rrMoxWO42Bv5UYtnNE843jz__1nWGOGXx-AdSa9hhoFelmkL5xMtmhiWQ9tp4HxogozjqQCSlZNn6z0bmE_8SaE9e4GbS0ZT1oVCY32Zj-D3z-Bnsq7gJvjaAwUDixmKVtj_uw=w176-h174-s-no?authuser=0",
+      "categoria": "Consoles",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 9
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/DnYwiTRYu3Bg1QWu23HsMQyWzivUvlak4L1t7xSzrVwM2huZI0vZhtlZ37phFrlsziHfYG5wJOHTQ0WS33EtLd5e_JwotePp6gXioEp78ErURQl_7u9tadIr8DDZC0vvqlG6MQRX6bY8Ai2cMHGi0tE70jodUFEqw3EbK6tJBimSLJWViX4MZ0uNbWKXO2UfyLCMk956whezgW-SKQEfwtr8dGrMYQiSZWDIFXo21weJs0ixpY33m21YGPhQX7IVaAsDULSxspza89wMERrh1RV2PslEABCzb08mtjE7rAZPk5lhTBJ4aa0Q0VDIa0ZZdatdsT7PhScwvIQLFWx9YBUqY5sIHpUTBSaLN5gpyvryq3IH2lLaBuwN3_foST0yKujagldhfMVM31WyGjqAFNm_G-FKeTuV4Vq4pMq0nCqrlxFHYR4AS7z1uq47DZp9ia-X5PQmNK6t5gbB6olsohXsiKzaK8cZAET1MvTV-Wz23rk6AzzNFOqCcdsoB5cg7qDCH0R5rv-emJyXQu9Mua7G2-fN5g05YiF32fc98S3Sthv1l-4QhE0qrypJez-Gvv9A76WTC3qd23rdVGK0kn9YqxaYgSIppro_lkjgHeDRFgOpvQlVncE9Muloc3oGScAV3v26Ew9bzYMdzqkyICKUXs0pwRm0b7nJ5b3KfTLQ8imo1xn0dS6pI6ShmhwtsjIEW7I-2Fp8kTq6Bzwk8cWNsCk6qvQDMSBwM1ZdmwC-vz67xrxp6NgRH9E_VdjKsh92vGjckHAcTUopuJoydJi7dEKQ6sJPh_dztYrs5fnfZJ5EBdnB17xyXgTHzMY062mCYwQxcufFvh3F2amafwZ4zzWO5Qqe7eQx8oINpGGgrjG-i1jViCPMrTMOuI_7_As2-QAFQUiO3TxfnoXkGbUbC17EoLkCHn2Fah_IIvwexw=w176-h174-s-no?authuser=0",
+      "categoria": "Consoles",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 10
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/BHKdTfD4V2GcoWrJQ1HudKiLAdhJJGrp40Vz2RFblJP4McfT1iB8ywGeDqrmx9tAYtYiPKenQhhzplrnwUR8aOCebZyML3uQBTIhlBPBW1Vpu2un_ZhI1BW36GI8oWjE93hBS3P-hKPvQtBPd3kntE34kzwf25Ii_lNXtDB92kSZPIy4Orbr8xf5Z8032HBdTQrjxdlav7ViPLhYitJhVQnT1vuENrb1kgWqJ7cz4uhmuiCh3g5S3rCv13rboY3JI4_W6nk_N41rILWUo5imdixIL2VgVtP-tn8F7JOkoB0crvWZeWcKYYmUxZhfr9d_qaPyz-sbalcB5xRwCLFnSmhdUrmkmKr2NfsEo5C2-P7Psgw_Oywg6cDo8RuhMyytJZiisn2CB-xvhj8265-a4va29WQuQPmjK-LATK5SY7h1qNAu7PdWHrF1nbmoeyM295Wd9g-FjprKOwf2wrvsgvlw_bLVbhvTVh6j4i9-Yv0EdZ4VMnLDdwo8uo8TONl7qhH71IRcIBeZ1p4Sg7GSdHOPQK5sEHOxjtYZzOiDRXP7k9sxW9ep6luNuPDCI1mvkoocqcIWAKDPZlqS32k-lBdyj5qH3mRqDn2zAtQMxW-_53qQowfnPvKgF7gtqsN3rBc_3p26XqXMSIKx6xJfDWaQ2D7vYEpD5Ymb8ugMzDSZczq6d5AnIl1Hccu0vukf0fTNqF3b8591bPfic1Fzv5iJHLFRuJr9nqrhM5akpXTv9tmuhdhH8aGt3VQAgEWQguMWyJ9zdz7yeAbMHOi33gjxLA-PupYXlhQZCNKD__g3MGlwy2e6mOmTxqDbsMyTadr_SsSWZzhqb_D5VnIP5JkTIaHzE0Sr8s4jFK-JJgbAIXFoI9ShZoENR7nMg7iyqS5skyLhcL1K7_ACjPp-aFWgAfu6xaPB4ZjHy7cG6IQmTw=w176-h174-s-no?authuser=0",
+      "categoria": "Consoles",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 11
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/SSIZ37ZQ1iYQUBXfxaUxL-KcxqIFMDrCqLvsyGvx3zFuC0x9vIOkp1uIDKJ9T3OYvrMF_SQsGhPHYEU9SmZiL7YiCWQoHHn2VXZUbsAC-wVUYvPAY3LYvw5FU_bj-oT1xLgYHWXm0N3Tn-QGmIUMnbVhx67OyyHK3CouGG5PxoFSTpX5ptI-QJVSLjaZw2PW9fbasckdDgnWNBoLfrIIMb6-UYTuXqlGfR1JOOAOZgQ5En_wUyPpi58aungz6kVFxBy1u1a2LQonhe4f-KiUzNlKvYVc-AQTviVMXWYyvMBi7kc1vCs0MBT0Xu4Bv3oW0MoCMbgD_LrFTZ3Mo0oJQ4yp2gt01lqTeORc-e9_Pko1rXuHtDwT9tBtpJgm4lWslAqrB6h3mDMQNzed_GUpTIxvU0Ck5CnorOmF1tpGzxI85kGYYOcMaU1dfCX6Re4GsKTlytq2r4laiwyfnuEya0l2YaexGqfWCGVwvU24Vq7djjm6-plfroS452VjrV2FCvkUkhvq85el99NlXdfP_Ej_B5BfhgwuRcALOJVQFaS5LwmuKIyD6D7oqMz9hTPgSJhEwlYhH8_CM6zo41m5cfrUKMjFLAqqqEDuET5n-thNpui_8Nfn6QJImCb-1B9F-IL0aIQ7dEdswWSCte90kFN6uEpGxS5DBUokWK5UtdmsDCqKV-92HIVc_w9AS68vdV9UYhKRCNnkPwke6QoIuL8mOx3PJNqrgIzBZoQli4AvBRcZ-meJ_O5M-zEDOCqNvnk_8jfkeyXz2P5GJwFxO30rzCvh-ML8cpwqrGFz7dDxCNW8Zh2FxbUzSjA5Leg9TXzvjeEPBM06kBPAu9qJzdjDna0D_gco2pCPKp7bXNyJQVBxjfuZ_pgBpOgGzZqBqkmUzS38wfkNtLdR2eOi-FLX113PHz5pZSWit57NwvyKAg=w176-h174-s-no?authuser=0",
+      "categoria": "Consoles",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 12
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/2lGcV-SkNlXPAY9bgP55Bubm9HXxv-YSMV4x76Ipg_Frfh2yaO4ntL4aULekNznPqPm5DVSy6Zb-MLsMLcLEz4uVkDiiwNwVvW0PFxj1XMni12goLOn667FyAmvDG3003ab5MgK8CiDNh5YKByab1vcc4wgFnOCEuUmdh06dcurR70UoVwRs1SJbuT_7Arux20EdAV6mAiEUdleYE0RUkUHsnNNo7pedq80RHAcg6fuBd_uzynapUQaaDEVPbKA6-on9X_KQwvL4hC2D3Kk-_UJ-kXZ-kYEOCTUAbK3qzAr2Y1xwBZtCIqyH97FOXlXI4bgatz-3HveIYqA2IBD6eToILDVYYZoeG7KRIz61n7FersEl-bxyvzrqHv8CeY1_0FPK4NOxrh5bcZj4SJKBNfyzVO7Qo5IJ0mFrQi9Bn808aPcylUvUoxoAnm0v8sRKchn6PSeXyyl6xZh9GE9Y1GAA9WjpeNLzpGQU3ixD3IReNE_Mrunf3rg4mGWRnHTLJ4dxadfgvQzIUl3jCT26-NtiJJC8tuLYsUEHc260p8luhslzKPAdOJ3_ht4b0e1Osd6vOEjmE6ncHknuhoVaY5JXqWS8WpK04E9IPeqq_GAMhjVW9RvI_kElVCnMa9GSSkHltiTOhEeaL5W_e7LnLTYkrzML04nzVnyxsgpbWtYy3lEUDIRe2-6FLN3G1xCEM-9IOGrOLUw1oaofChWYbtMlUYD-eEC62rbyMU2f3AqlmTK2MQyM40c1b8gpx0qjbJNEiIhAGNU_iSQYQpC7rVOt5116sDYM6fiGG1vhPuNVwXwKZPdtQZ9fDCodTMnaYkdGSXUORCjDg6Vr0ihm0l0ZlqZIq2QovU9w16atI9SKT63uihH-f5LeYZ7GxGbupROnxZ06uD8oTO7s0D97fYTdON1dmncdE6i_p5nqagSTWA=w176-h174-s-no?authuser=0",
+      "categoria": "Diversos",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 13
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/a70fBaTDadDQ0AZ3QMttGh8Wqb--4DiquW0TbdCfasp-GTy4bOp6noqP_PZ8ycxDLfWnLFtBzzTSQTHtxPMWqR7QpMYe4nElptQ1CEOFFPA_D39Fd8ucJJo18dS8bAN50DKyEDYa4kIegMqPfyxxVFIJXk8ih-_GVkFbwfo9wiyKq0p07YHLnKnQnro3ZXZKVQtMzGAjRuwSQ8VuOdph6SVxivH2OCPpK17wRsaBMJ8a58jHcL8CjaMR_R5dbI6Tt58j0H99-wwKQVRsQNYzNLte62WGiTkoc9imX8IRICoQYQHAvbSA3te_z9rwB9GKtl_O4qIgbKOKJnwAPbTYHbOngUJiyQ1O_zgSfVN_pX8tfeYWW-epHHex5-h9uSTWVq_tsWNj3pHwaJV_4P09FbgWJizPnRrzvuwwyGe1I3RMkEVa7pXai4CuCzCos6eHVw8NjZB38BFCGKE-_AcZ6pidrky46QVib4Ta8oCxG5-lrJ2pKthEx7lI76F4nRwoHRgIK5EPvjvI2_4TI27z33rCd-mUbmbHLuyL-IZWPJpcfhJ0P8P0cuweBlgQnmmHMu8jWxplExslAlpUnpnq3qp5MXHd3fOsGtIe_CcQMbXFzayvVkz992diOKUG8Fk4AqsfMVGureDlovoxSuCBIDiGKU4AuNYncD1kk1eOCHNrqU51Te2nnHRilDh5f4ChAlewwiKDJj1mRJKvB_yot0UyGwFPII2smu3stvGkBaob93ZHb_B3izTDQdU3iIIlE09z_I63hRfW_jCnMBcYjjrR_G8y6lVNSAdjCGSJkfJU-VTgfUOuYipAfre0RFVHjQU7b216QjjdlANBTdX9y3aGDwO16WT_Zpsa3e9DyWs87IXYtuY5IQbzgaY7REbmvIAg-bIfalEmsFbq63cWuVhmmnVrRAPJ91j6aE8FRzSbfA=w176-h174-s-no?authuser=0",
+      "categoria": "Diversos",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 14
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/wcXD9474yI9wTJmIEtibO9cY18GQ4QIsy5qhEpralRZWLXKl7WEw03K38lOJQ9pNGXGSdRGsiYmSGD__gQ_bsmdVAZh5901ilgLFKxRE8qmvxCQ8cXUjo6mpV7yspFbdmBYiCQA84bmTu4cWbRk8saiIyHRkh1Kieajf7peHzJLlkMJ9DRwJarjOlsF2bLjjgyxHoF5nEVZJxIlqtlGh5t-v_pY4cT9TrNfZ37wJxMa9pk2WBXijKwIFZoN0CTC6c3W713tfXL-nBh6iwUfAu39d269r_fiR06o90zgd3b3Njs7DATS7n7a22aR94lD_qak1QJ-3X5wxhIqgu9GcgCEwGRIPJiofUXn7Vxji5mgWr1i4Y_pyaWbW7Lb0d-oRj8nASTjkSeZmnPHexm5ObaMFcqm6p1SpuOt2Rc-QQyG7tBc5Z42BWuSz-18qEcb0nZyHF_DVga81qOnedArsBxawygNr9ZCuAPTE5D1Eu-c6aViWktNynLhGrIOxA_BeYbbcDFFOGTLbncfpX7nY-qxETiRAonwiu7UUv9mpF5tFNK7ftGWmw8RWdmTRIqjMdIktgUj8g3N3YbQ7LMn4sv89viQXuhRB_60qJiXbyNQhuAzGvnJLrZZ4eqBI48jNnUbId22lppxYJDji-Vo3EqI0bw93HCjmQ74fFS541s7G3EI19jZsh9Rwx0Iu29YfoA_AnulOh7t6hd9OV2b9I3EaQuifAc6NJcVk4ozRWwXIhU1J72ZG1tcriuuOMvpNxJMcOyLrrdCDQFdIHMd6EUMQ9jPpuZ9mBpMRAbrPVbWXb9qhX2QerJzgChPY0CG4SonIqutreiztVDOagx9MOwZQIKaPRHfBYgDduM15aGXKeFezdzZcx0Hf7X5526NU_cZWzgErNNsQi4z2tSFWiZSnydXXyQbsiQDBU8Jiqn2O3g=w176-h174-s-no?authuser=0",
+      "categoria": "Diversos",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 15
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/L_GL6yJ3eLyL2eWV_W2sEvICZqYy-h78B37PGwUgto1ehANFPUQXm09YUYP-Guvr5mOHYDy8SA-KjBZvmITWT4f9IoxP15TGQ7FJepXF85cr3q9ivs2bQskJRdzE6BCitVMf-2RLYisMavOCr6HgKaUpuoYGExztb5HE7fn9C1ycRvlOrZoZCcSzdTMwskFZiZgMYxwF24-7s8jcnxsQKoSEm6OnGdPGjkTXdZK4-NWcVhUAsIN4KkE10oiUIRMhLu0fxU4ggFx1vaEJwMaIJPM3WKj0Rr18suFdL1Y3cK79sZxCpMBLKJcx94yEuBa2Yaeze92p0GC2pCl_oDsNySUgQEkiTvDVdCnqiaF5UlpQ7WD-TsQKD2M0sTImCPD8W_EuGL3lyppTk0M3tTAk1VmJxZBWPCAH8XZqR6MNCg-4D_GNoa2B1mn6gyGfTNK37f6PtEuc-8sJtLlo0Q-FUTpNkfcngQ_O4niY_9IAT0FatMweNLDzAXr_QqB-hRQuCiL34-vRXAA4wvxs-s3BXZ5cri5yTOypB8rug6E6GWLkNxrMw1nDE7OXGg9c2COucQc6tW-PwLilu9pA4U_m1tWVJ-N4kWIhmgwyhoGOgmwwtHOBCrwv0CYRaeFwEiRVt88y9VMtea15e-k4zDkctKVD3kMKqOlr5nizh4rCjkyVbVeb9llMjMzhN9jVU0A0Zub-nRousKEB9Y1ZkT4QxfKEsMkQZoUAjuSuqTyjcFz8o-JV0cmwALB2buxTuSefuHWpVsq9hrwIxorPBjZHMoN6fxpiHoCmu9DJZQ1HNFp8Lu4Zeg8IHFNitdXOyUYIhFcxlIg60yy50qFR2fivALx49LkZu6YZ0ANBVZKQsaJ1Ds2h464VKfZhZjUVfESrL9Sn-kI-KuD-wdw2lHNwUd5givZh_cdbA70JlRihHm94qA=w176-h174-s-no?authuser=0",
+      "categoria": "Diversos",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 16
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/lEe6WmIjDSuH2FM5i1QXlSY8cZuD4Ys6x8cPGW1Nw17Hg3xqcliGMTPe9e3f-ohmlQf62OPmqTcJ46Xk40ANUT2Ukn_tlG4Ov6XJfDqq_36yeQ_kpe6O_WNKnHDTSPE6zViJqTbOxxp1YE4XmZPncE6d6wrkxFXF6d8bvO1DkACsDoNCWdZpUIPth8IqI88y1m0IMyXX7IOFj3wx0sz7q-WkahLuvkb1Yd7tZNJminAsx0Z8nY7gm1AsuoL-X-YnFvq1p1ebqu-cw8tXXuU-91oUepXovUKoinFaVGZBL3t9wXkyZ1EDOcZEwv3Ua9YhXsapp1hvCUQI-R75yRVIcWFp9WxTJFYq-0xh_IrLf_SZM6MMpG7K7MRIO9lToQtnWiL-7kRw2V_5hjt0ac0IZoUYIj4GaxERi3PFTCsXpCBiLWsvD_H_1mEGITi4r5EROYpiYYDL1ITB-p4kRqIfQLI_ojtWilk_dQg5G3V5UC3OMkWihbSsXqdo1S2pv3CYmuLVRjwPqFvj7awYmCqTmTK9OozOsZLynX4IqjAx3lXXGBTOUtfNmyMdSsHX_2SRjSkW_LnTCprh1DdSQzVqlUXyCbxp6xxU4FaQoEYSdFF7Rje8oxM3Tuh7jNETC9y2Xlq6jI1_sWAIunZASWZZKZhBnzdHl_8MlN5YdL3IypFuBLge6Dc2eEJmh4msxx5OcQOWo-FZKBZOoQWIlxNnYN9mux2eYp8TOOP0-m7Yuq5rjep5HnycR-jau-v4nfuDSD24UGEZW_0_QWGLEErEE1cH70lBHfDUl5yRr7yuvXX4jZot5OtgP8gT_2k17MphhnWveSdwI-hRkn-hjR884nnaXFvYcGX9uOwdNal6ilBPHlXl1ObPkj2rTcA-BiGlOlpTgDKvajFkcbV8OFxGRAZOs_mSx_uTfVfOA8wpK4XbsA=w176-h174-s-no?authuser=0",
+      "categoria": "Diversos",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 17
+    },
+    {
+      "imagem": "https://lh3.googleusercontent.com/RJ8uUWAYyxOxc4GejZJUVuijec6JNoawuxdN_3hBL5jXbiRGzLeUor9f2UF_esHDyX85Iay8rnrKxWjEzYdp6qhat2K7uJJ2gVc8NQLh8OYcx6F9HvhFBoa8DvxvQugH3fRFn196NerI5vxtqWqS9EOrvk4c1n5FC7MWKU65m1Kwc8P_YgPLtA4OZFJez8Umol2f4apIllpeCpXnZ3L4SZxMKMKkMSKEILlpbmnG_M6jLVcoQyt_F9o0I20r2ZhwHnC9Ptk5WvJP1zbNEd3rQnpE-jKGTgEBdCVwoaFneKYIJTz8Q0QRmkV8CcwMfWxU2eeljoAcdXaXt5MgiYvHXvw4qzZrDZjONvRwTiQstkr4UEMuTubb23t8ttYMyiqeRbyvLR_KJpOH_aui7e5C48Z90JPRGacx56DzBDm8liDPaTVseHJIhG8am9Zjj1rwbkxLUlXPr30MsjDcREyYFeQbl8_-bHtkZsZco_AM_Xq7kpK3-dK0HSrFax7WztM6P0GSnlrAoYuMHEUV4S-hwW3iADtt0qhM5EBLIk6V3_14gI50amri2yetKQBt_Qc0VR5au8gAGWm4yJZDLqHRvA6jzXirH3Twf-kZnHBMZpaKWcYMnvon7et2L-beJL0d595AU7u47z3qkgeOUaGQXcrcv47o3U_S3hKEsTcBUVxWdXZ_NHEtsYDc63sBl9k_yTy-ZkmGTtmVcuRr6LrJnVxtWxLOVeYeCJ7H90FhuHqzRc5eiF7ntNuzzjoemW1f2K2bFixfQW0wyBGtWp6TNIveWtosoAIofmjkbgspS55Q2vc5upZvRVsUIwj8fAuiX2X00ApNa9IxYhzCPvfX1I0HAhD9NhUeytytqsw2oI0Ud7zeEKh7xBOIVoWWzjmq7CAnQt1nyz1eyojJ7BAVlXRD_-hErwPZusjAUrsT8DTRyA=w176-h174-s-no?authuser=0",
+      "categoria": "Diversos",
+      "nome": "Produto XYZ",
+      "valor": "R$ 60,00",
+      "descricao": "Voluptas voluptatum quibusdam similique, class debitis alias maecenas eveniet ridiculus, facilis fusce! Ullam conubia? Sociis, minima malesuada habitasse distinctio sequi aliqua malesuada. Quisque deleniti proin expedita, aliquid litora. Iste recusandae? Commodo.",
+      "id": 18
+    }
+  ],
+  "profile": [
+    {
+      "nome": "adm",
+      "senha": "adm",
+      "id": 1
+    }
+  ]
+}

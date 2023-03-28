@@ -1,0 +1,60 @@
+.diversos {
+    padding: 3rem 7rem;
+}
+
+.diversos__box {
+    font-family: var(--font-Raleway);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.diversos__titulo {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    color: var(--cor-cinza-escuro);
+}
+
+.diversos__link {
+    text-decoration: none;
+    color: var(--cor-azul);
+    height: 20px;
+    display: flex;
+    align-items: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.diversos__link::after {
+    content: url("./../img/seta.svg");
+    margin-left: 10px;
+}
+
+.diversos__container {
+    padding-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: var(--font-Raleway);
+}
+
+@media (max-width: 768px) {
+    .diversos {
+        padding: 30px;
+    }
+
+    .diversos__titulo {
+        font-size: 22px;
+        line-height: 26px;
+    }
+}
+
+@media (max-width: 360px) {
+    .diversos__link {
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+    }
+}

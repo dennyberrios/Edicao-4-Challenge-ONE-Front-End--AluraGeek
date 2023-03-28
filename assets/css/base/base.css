@@ -1,0 +1,21 @@
+:root {
+    --cor-azul: #2A7AE4;
+    --cor-azul-escuro: #0f53ab;
+    --cor-azul-claro: #1e63bd;
+    --cor-cinza-claro: #F5F5F5;
+    --cor-cinza-medio: #A2A2A2;
+    --cor-cinza-escuro: #464646;
+    --cor-cinza-border-divInput: #C8C8C8;
+    --cor-branco: #FFFFFFFF;
+    --cor-vernde-claro: #EAF2FD;
+    --cor-fundo-body: #E5E5E5;
+
+
+    --font-verdana: verdana;
+    --font-Raleway: 'Raleway';
+}
+
+html, body { 
+    scroll-behavior: smooth;
+    background-color: var( --cor-fundo-body);
+}

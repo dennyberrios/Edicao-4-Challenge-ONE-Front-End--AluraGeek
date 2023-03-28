@@ -1,0 +1,67 @@
+.formulario-login {
+    display: flex;
+    flex-direction: column;
+    font-family: var(--font-Raleway);
+    width: 423px;
+    margin: 100px 0;
+}
+
+.formulario-login__paragrafo {
+    margin-bottom: 15px;
+    text-align: center;
+
+    color: var(--cor-cinza-escuro);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.formulario-login__box-input {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 46px;
+    background-color: var(--cor-branco);
+    border-radius: 4px;
+    border-bottom: 1px solid var(--cor-cinza-border-divInput);
+    margin: 10px 0;
+}
+
+.formulario-login__input {
+    border: none;
+    outline: none;
+    color: var(--cor-cinza-escuro);
+    margin: 5px 0;
+    padding: 0 7px;
+    height: 40px;
+}
+
+.formulario-login__input:-webkit-autofill,
+.formulario-login__input:-webkit-autofill:hover,
+.formulario-login__input:-webkit-autofill:focus,
+.formulario-login__input:-webkit-autofill:active,
+.formulario-login__input:-webkit-autofill:valid {
+    -webkit-box-shadow: 0 0 0 30px var(--cor-branco) inset !important;
+}
+
+.btn__login {
+    margin: 10px 0;
+}
+
+@media (max-width: 768px) {
+    .formulario-login {
+        width: 275px;
+        align-items: center;
+    }
+
+    .btn__login {
+        width: 109px;
+        padding: 10px;
+    }
+
+    .formulario-login__box-input {
+        height: 41px;
+    }
+}

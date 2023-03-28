@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./assets/img/logo.svg" type="image/x-icon">
+
+    <!-- link css reset e base -->
+    <link rel="stylesheet" href="./assets/css/base/reset.css">
+    <link rel="stylesheet" href="./assets/css/base/base.css">
+
+    <!-- link css cabecalho -->
+    <link rel="stylesheet" href="./assets/css/components/cabecalho/cabecalho.css">
+
+    <!-- link css botao -->
+    <link rel="stylesheet" href="./assets/css/components/botoes/botoes.css">
+
+    <!-- link css cards -->
+    <link rel="stylesheet" href="./assets/css/components/card/card.css">
+
+    <!-- link css promocional -->
+    <link rel="stylesheet" href="./assets/css/promocional.css">
+
+    <!-- link css star-wars -->
+    <link rel="stylesheet" href="./assets/css/star-wars.css">
+    <!-- link css consoles -->
+    <link rel="stylesheet" href="./assets/css/consoles.css">
+    <!-- link css diversos -->
+    <link rel="stylesheet" href="./assets/css/diversos.css">
+
+    <!-- link css rodape -->
+    <link rel="stylesheet" href="./assets/css/components/rodape/rodape.css">
+
+    <!-- link font google Raleway -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@500;700&display=swap" rel="stylesheet">
+
+    <title>AluraGeek</title>
+</head>
+
+<body>
+    <header class="cabecalho">
+        <nav class="cabecalho__navegacao">
+            <img class="cabecalho__logo" src="./../assets/img/logo.svg" alt="logo">
+            <h1 class="cabecalho__logo-alura">Alura</h1>
+            <h1 class="cabecalho__logo-geek">Geek</h1>
+            <div class="cabecalho__container">
+                <form class="input__container">
+                    <input class="input__cabecalho" type="search" placeholder="O que deseja encontrar?">
+                    <button type="submit" class="search__botao">
+                        <img src="./../assets/img/search.svg" alt="search">
+                    </button>
+                </form>
+                <a class="cabecalho__btn" href="./pages/login.html">Login</a>
+            </div>
+        </nav>
+    </header>
+    <main>
+        <section class="promocional">
+            <div class="promocional__container">
+                <h1 class="promocional__titulo">Dezembro Promocional</h1>
+                <p class="promocional__paragrafo">Produtos selecionados com 33% de desconto</p>
+                <a class="primeiro__botao" href="#consoles">Ver Consoles</a>
+            </div>
+        </section>
+
+        <section class="star-wars">
+            <div class="star-wars__box">
+                <h2 class="star-wars__titulo">Star Wars</h2>
+                <a class="star-wars__link" href="./pages/StarWars.html">Ver tudo</a>
+            </div>
+
+            <div class="star-wars__container" data-starwars>
+            </div>
+        </section>
+
+        <section class="consoles" id="consoles">
+            <div class="consoles__box">
+                <h2 class="consoles__titulo">Consoles</h2>
+                <a class="consoles__link" href="./pages/Consoles.html">Ver tudo</a>
+            </div>
+
+            <div class="consoles__container" data-consoles>
+            </div>
+        </section>
+
+        <section class="diversos">
+            <div class="diversos__box">
+                <h2 class="diversos__titulo">Diversos</h2>
+                <a class="diversos__link" href="./pages/Diversos.html">Ver tudo</a>
+            </div>
+
+            <div class="diversos__container" data-diversos>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <section class="rodape">
+            <div class="rodape__container">
+                <div class="rodape__box-logo">
+                    <img class="rodape__logo" src="./assets/img/logo.svg" alt="logo">
+                    <h1 class="rodape__logo-alura">Alura</h1>
+                    <h1 class="rodape__logo-geek">Geek</h1>
+                </div>
+                <div class="rodape__box-links">
+                    <a href="#" class="rodape__links">Quem somos nós</a>
+                    <a href="#" class="rodape__links">Política de privacidade</a>
+                    <a href="#" class="rodape__links">Programa fidelidade</a>
+                    <a href="#" class="rodape__links">Nossas lojas</a>
+                    <a href="#" class="rodape__links">Quero ser franqueado</a>
+                    <a href="#" class="rodape__links">Anuncie aqui</a>
+                </div>
+            </div>
+            <form class="rodape__formulario" data-form="rodape">
+                <p class="formulario__paragrafo">Fale conosco</p>
+                <div class="rodape__box-input">
+                    <label for="rodape__nome" class="rodape__label">Nome</label>
+                    <input type="text" name="rodape__nome" class="rodape__nome" id="rodape__nome" placeholder="Nome"
+                        required data-rodape="Nome">
+                </div>
+                <textarea name="rodape__aria-de-texto" id="rodape__aria-de-texto" class="rodape__aria-de-texto"
+                    cols="30" rows="10" placeholder="Escreva sua mensagem" required
+                    data-rodape="ariaDeTexto"></textarea>
+                <button type="submit" class="primeiro__botao btn__rodape">Enviar mensagem</button>
+            </form>
+        </section>
+        <section class="rodape__autoria">
+            <p>&copy;Desenvolvido por Danny Berrios</p>
+            <p>2023</p>
+        </section>
+    </footer>
+    <script type="module" src="./controller/listaCardCliente-controller.js"></script>
+    <script type="module" src="./controller/rodape-controller.js"></script>
+</body>
+
+</html>
